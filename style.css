@@ -1,0 +1,25 @@
+body {
+    background-color: purple;
+    color: RebeccaPurple;
+    font-family: Arial, sans-serif;
+}
+.character {
+    border: 1px solid rgb(255, 33, 3);
+    background-color: royalblue;
+    border-radius: 5px;
+    color: seashell;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+input, button {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid RebeccaPurple;
+}
+button {
+    background-color: RebeccaPurple;
+    color: white;
+    cursor: pointer;
+}
